@@ -2,72 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://componego.github.io/</loc>
-         <lastmod>2024-07-11</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-09-26</lastmod>
     </url>
     <url>
          <loc>https://componego.github.io/get-started/</loc>
-         <lastmod>2024-07-11</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-09-26</lastmod>
     </url>
     <url>
          <loc>https://componego.github.io/contribution/guide/</loc>
-         <lastmod>2024-07-11</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-09-26</lastmod>
     </url>
     <url>
          <loc>https://componego.github.io/impl/application/</loc>
-         <lastmod>2024-07-11</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-09-26</lastmod>
     </url>
     <url>
          <loc>https://componego.github.io/impl/component/</loc>
-         <lastmod>2024-07-11</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-09-26</lastmod>
     </url>
     <url>
          <loc>https://componego.github.io/impl/config/</loc>
-         <lastmod>2024-07-11</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-09-26</lastmod>
     </url>
     <url>
          <loc>https://componego.github.io/impl/dependency/</loc>
-         <lastmod>2024-07-11</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-09-26</lastmod>
     </url>
     <url>
          <loc>https://componego.github.io/impl/driver/</loc>
-         <lastmod>2024-07-11</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-09-26</lastmod>
     </url>
     <url>
          <loc>https://componego.github.io/impl/environment/</loc>
-         <lastmod>2024-07-11</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-09-26</lastmod>
     </url>
     <url>
          <loc>https://componego.github.io/impl/processor/</loc>
-         <lastmod>2024-07-11</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-09-26</lastmod>
     </url>
     <url>
          <loc>https://componego.github.io/impl/runner/</loc>
-         <lastmod>2024-07-11</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-09-26</lastmod>
     </url>
     <url>
          <loc>https://componego.github.io/tests/mock/</loc>
-         <lastmod>2024-07-11</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-09-26</lastmod>
     </url>
     <url>
          <loc>https://componego.github.io/tests/runner/</loc>
-         <lastmod>2024-07-11</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-09-26</lastmod>
     </url>
     <url>
          <loc>https://componego.github.io/warnings/goroutine-leak/</loc>
-         <lastmod>2024-07-11</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-09-26</lastmod>
     </url>
 </urlset>
